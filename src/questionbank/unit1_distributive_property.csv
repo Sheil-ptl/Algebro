@@ -1,0 +1,76 @@
+Difficulty,Question,Answer,Hint
+1,3(x + 4),3x+12,Multiply 3 by both x and 4
+1,2(x + 5),2x+10,Distribute the 2 to both terms inside
+1,4(x + 3),4x+12,Multiply 4 by x then multiply 4 by 3
+1,5(x + 2),5x+10,Distribute 5 to both x and 2
+1,2(x - 3),2x-6,Multiply 2 by x then 2 by -3
+1,3(x - 5),3x-15,Distribute the 3 to both terms
+1,4(x - 2),4x-8,Multiply 4 by x then 4 by -2
+1,6(x + 1),6x+6,Distribute 6 to both x and 1
+1,5(x - 4),5x-20,Multiply 5 by both terms inside
+1,7(x + 2),7x+14,Distribute the 7 to x and 2
+1,3(x + 6),3x+18,Multiply 3 by both terms
+1,4(x + 5),4x+20,Distribute 4 to both x and 5
+1,2(x - 7),2x-14,Multiply 2 by x then 2 by -7
+1,5(x + 3),5x+15,Distribute the 5 to both terms
+1,6(x - 2),6x-12,Multiply 6 by both x and -2
+1,3(x - 4),3x-12,Distribute 3 to both terms inside
+1,8(x + 1),8x+8,Multiply 8 by x then 8 by 1
+1,4(x - 5),4x-20,Distribute the 4 to both terms
+1,7(x + 3),7x+21,Multiply 7 by both x and 3
+1,2(x + 8),2x+16,Distribute 2 to both terms
+1,5(x - 1),5x-5,Multiply 5 by x then 5 by -1
+1,6(x + 4),6x+24,Distribute the 6 to both terms inside
+1,3(x + 7),3x+21,Multiply 3 by both x and 7
+1,4(x - 3),4x-12,Distribute 4 to both terms
+1,9(x + 2),9x+18,Multiply 9 by both x and 2
+2,2(3x + 5) + 4,6x+14,Distribute 2 first to get 6x + 10 then add 4
+2,3(2x + 1) + 7,6x+10,Multiply out the parentheses then add 7
+2,4(x + 3) - 5,4x+7,Distribute 4 to get 4x + 12 then subtract 5
+2,2(x - 4) + 9,2x+1,Distribute first then add 9 to the constant
+2,5(x + 2) - 3,5x+7,Multiply out to get 5x + 10 then subtract 3
+2,3(2x - 1) + 6,6x+3,Distribute 3 then add 6 to the result
+2,2(4x + 3) - 7,8x-1,Distribute to get 8x + 6 then subtract 7
+2,4(x - 2) + 8,4x,Distribute 4 then add 8 to -8
+2,3(x + 5) - 10,3x+5,Multiply out then subtract 10 from 15
+2,5(2x + 1) + 3,10x+8,Distribute 5 to get 10x + 5 then add 3
+2,2(3x - 2) + 8,6x+4,Distribute first then add 8
+2,4(2x + 1) - 6,8x-2,Multiply out to get 8x + 4 then subtract 6
+2,3(x - 3) + 11,3x+2,Distribute 3 then add 11 to -9
+2,6(x + 2) - 5,6x+7,Distribute to get 6x + 12 then subtract 5
+2,2(5x + 3) - 4,10x+2,Multiply out then subtract 4 from 6
+2,4(x + 4) - 9,4x+7,Distribute 4 then subtract 9 from 16
+2,3(3x - 2) + 5,9x-1,Distribute 3 to get 9x - 6 then add 5
+2,5(x - 1) + 7,5x+2,Multiply out then add 7 to -5
+2,2(2x + 4) - 3,4x+5,Distribute to get 4x + 8 then subtract 3
+2,7(x + 1) - 4,7x+3,Distribute 7 then subtract 4 from 7
+2,3(4x + 2) - 8,12x-2,Multiply out to get 12x + 6 then subtract 8
+2,4(3x - 1) + 9,12x+5,Distribute 4 then add 9 to -4
+2,2(x + 6) - 7,2x+5,Distribute to get 2x + 12 then subtract 7
+2,5(2x - 3) + 8,10x-7,Multiply out then add 8 to -15
+2,6(x - 2) + 13,6x+1,Distribute 6 to get 6x - 12 then add 13
+3,2(3x + 1) - 3(x - 2),3x+8,Distribute both 2 and -3 then combine x terms
+3,4(2x - 3) + 2(x + 5),10x-2,Distribute to both parentheses then combine
+3,3(x + 4) - 2(x - 1),x+14,Distribute 3 and -2 then combine like terms
+3,5(2x + 1) - 3(x - 2),7x+11,Multiply out both then combine x terms
+3,2(4x + 2) - 3(2x - 1),2x+7,Distribute both numbers then combine
+3,4(x - 2) + 3(2x + 1),-x-5,Distribute to both sets then combine all terms
+3,3(2x + 5) - 2(3x - 1),17,Distribute both then combine like terms
+3,5(x + 3) - 2(2x - 1),x+17,Multiply out both parentheses then combine
+3,2(3x - 4) + 4(x + 2),10x,Distribute to both then combine x and constants
+3,6(x + 2) - 4(x - 3),2x+24,Distribute 6 and -4 then combine
+3,3(4x + 1) - 2(5x - 3),2x+9,Multiply out both then combine like terms
+3,4(2x - 1) + 3(x + 3),11x+5,Distribute to both sets then combine
+3,2(x + 5) - 3(2x - 4),-4x+22,Distribute both then combine x terms carefully
+3,5(3x - 2) - 4(2x + 1),7x-14,Multiply out both parentheses then combine
+3,3(x + 6) - 2(4x - 5),-5x+28,Distribute to both then combine like terms
+3,4(3x + 2) + 2(x - 5),14x-2,Distribute both numbers then combine
+3,2(5x - 3) - 3(3x - 2),x,Multiply out both then combine all terms
+3,6(x - 1) + 3(2x - 4),12x-18,Distribute to both sets then combine
+3,3(2x + 4) - 4(x - 2),2x+20,Distribute 3 and -4 then combine
+3,5(x + 2) - 2(3x + 1),-x+8,Multiply out both then combine x terms
+3,4(2x - 3) - 2(3x - 5),2x-2,Distribute to both parentheses then combine
+3,2(4x + 5) + 3(x - 3),11x+1,Distribute both then combine like terms
+3,7(x + 1) - 5(x - 2),2x+17,Multiply out both sets then combine
+3,3(3x - 2) - 2(4x + 3),-x-12,Distribute to both then combine carefully
+3,4(x + 3) + 2(3x - 5),10x+2,Distribute both numbers then combine all terms
