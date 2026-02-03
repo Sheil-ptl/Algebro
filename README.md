@@ -8,3 +8,16 @@
 
 1. Navigate to the source folder: ```cd Algebro/src```
 2. Run the program: ```python algebro_gui.py```
+
+## User Functionality:
+* Teachers:
+  * Create, View, Manage Classes
+  * Import Problemsets
+* Students:
+  * Register for Class
+  * Complete Problemsets
+  * View Progress
+* General User
+  * Sign up without Class
+  * Complete Problemsets
+  * View Progress
